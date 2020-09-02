@@ -1,1 +1,12 @@
-
+body {background-color: darkseagreen}
+h1 {font-size: 3em; color:white}
+#Mathematics {background-color: coral;}
+#StudioArt {background-color:cadetblue;}
+#Economics {background-color: bisque;}
+#Politics {background-color: burlywood;}
+#ComputerScience {background-color:brown}
+p {font-family: cursive;}
+th {border-top:4px solid #312c22; border-bottom: 4px solid #312c22; border-color: black;border-right: 4px solid #312c22; border-left: 4px solid #312c22}
+tr {border-bottom:4px solid #312c22; border-top:4px solid #312c22; border-color:black;border-right: 4px solid #312c22; border-left: 4px solid #312c22; background-color: azure}
+td {border-bottom: 4px solid #312c22; border-top:4px solid #312c22; border-color: black;border-right: 4px solid #312c22; border-left: 4px solid #312c22}
+td.picture {border-bottom:4px solid #312c22;border-top:4px solid #312c22; border-color:black;border-right: 4px solid #312c22; border-left: 4px solid #312c22}
